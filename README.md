@@ -20,4 +20,4 @@ The presentation aims to educate users about phishing attacks, common phishing t
 CodeAlpha Cyber Security Internship
 
 ## Author
-[Your Name]
+Kiran Mirani
